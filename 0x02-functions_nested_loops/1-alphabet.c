@@ -7,10 +7,9 @@
  *
  * Return: void
  */
-
 void print_alphabet(void);
 {
-	char ch;
+	int ch;
 
 	for (ch = 'a'; ch <= 'z'; ch++)
 		_putchar(ch);
