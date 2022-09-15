@@ -1,11 +1,8 @@
 #include "main.h"
 
 /**
- * main- entru point
+ * print_alphabet - print alphabets in lowercase, followed by new line.
  *
- * A program that prints the loop of all the alphabet in small letters
- *
- * Return: void
  */
 void print_alphabet(void)
 {
