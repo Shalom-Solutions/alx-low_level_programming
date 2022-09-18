@@ -25,7 +25,7 @@ int main(void)
 		}
 		else
 		{
-			printf("%d\t" i);
+			printf("%d\t", i);
 		}
 		printf("\n");
 		return (0);
