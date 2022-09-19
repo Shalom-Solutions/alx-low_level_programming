@@ -1,5 +1,5 @@
-#ifndef FILE_MAIN
-#define FILE_MAIN
+#ifndef _MAIN_
+#define _MAIN_
 
 int _putchar(char c);
 void reset_to_98(int *n);
@@ -13,4 +13,4 @@ void puts_half(char *str);
 void print_array(int *a, int n);
 char *_strcpy(char *dest, char *src);
 int _atoi(char *s);
-
+#endif
